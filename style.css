@@ -18,7 +18,7 @@ span{
     box-shadow: 0 2px  8px;
     position: sticky;
     top: 0;
-    transition: ease-in-out;
+    z-index: 1;
 }
 
 .nav-links{
